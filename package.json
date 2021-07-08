@@ -1,0 +1,19 @@
+{
+  "name": "lab1",
+  "version": "1.0.0",
+  "description": "Latihan Node menggunakan Jade",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "latihan"
+  ],
+  "author": "xhartono (xhartono@gmail.com)",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^5.0.2",
+    "express": "^4.17.1"
+  }
+}
